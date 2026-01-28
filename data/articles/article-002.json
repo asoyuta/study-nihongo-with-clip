@@ -1,0 +1,36 @@
+{
+  "id": "article-002",
+  "title": "VTuberの日常会話 - 自己紹介",
+  "description": "VTuberが自己紹介をする場面です。自己紹介の表現を学べます。",
+  "createdAt": "2024-01-20T14:30:00Z",
+  "youtubeVideoId": "dQw4w9WgXcQ",
+  "category": "日常会話",
+  "tags": ["VTuber", "日常会話", "初級", "自己紹介"],
+  "speakers": [
+    {
+      "id": "speaker-001",
+      "name": "さくらみこ",
+      "icon": "https://via.placeholder.com/64"
+    }
+  ],
+  "transcript": [
+    {
+      "speakerId": "speaker-001",
+      "japanese": "初めまして、さくらみこと申します。",
+      "japaneseWithRuby": "<ruby>初<rt>はじ</rt></ruby>めまして、さくらみこと<ruby>申<rt>もう</rt></ruby>します。",
+      "hiragana": "はじめまして、さくらみこともうします。",
+      "english": "Nice to meet you, I'm Sakura Miko.",
+      "explanation": "「初めまして」は初対面の挨拶です。「と申します」は「I am」の丁寧な表現です。",
+      "timestamp": 3
+    },
+    {
+      "speakerId": "speaker-001",
+      "japanese": "よろしくお願いします！",
+      "japaneseWithRuby": "よろしくお<ruby>願<rt>ねが</rt></ruby>いします！",
+      "hiragana": "よろしくおねがいします！",
+      "english": "Nice to meet you! / Please treat me well!",
+      "explanation": "「よろしくお願いします」は初対面や依頼の際に使う表現です。",
+      "timestamp": 8
+    }
+  ]
+}

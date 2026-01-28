@@ -1,0 +1,50 @@
+{
+  "id": "article-001",
+  "title": "VTuberの日常会話 - 初めての挨拶",
+  "description": "VTuberの日常会話を日本語学習用に解説した記事です。基本的な挨拶表現を学べます。",
+  "createdAt": "2024-01-15T10:00:00Z",
+  "youtubeVideoId": "dQw4w9WgXcQ",
+  "category": "日常会話",
+  "tags": ["VTuber", "日常会話", "初級", "挨拶"],
+  "speakers": [
+    {
+      "id": "speaker-001",
+      "name": "さくらみこ",
+      "icon": "https://via.placeholder.com/64"
+    },
+    {
+      "id": "speaker-002",
+      "name": "観客",
+      "icon": "https://via.placeholder.com/64"
+    }
+  ],
+  "transcript": [
+    {
+      "speakerId": "speaker-001",
+      "japanese": "こんにちは！今日も元気に配信します！",
+      "japaneseWithRuby": "こんにちは！<ruby>今日<rt>きょう</rt></ruby>も<ruby>元気<rt>げんき</rt></ruby>に<ruby>配信<rt>はいしん</rt></ruby>します！",
+      "hiragana": "こんにちは！きょうもげんきにはいしんします！",
+      "english": "Hello! I'll stream cheerfully today too!",
+      "explanation": "「こんにちは」は午後の挨拶です。「元気に」は「cheerfully」や「energetically」を意味します。",
+      "timestamp": 5
+    },
+    {
+      "speakerId": "speaker-002",
+      "japanese": "おはようございます！",
+      "japaneseWithRuby": "おはようございます！",
+      "hiragana": "おはようございます！",
+      "english": "Good morning!",
+      "explanation": "「おはようございます」は朝の丁寧な挨拶です。",
+      "timestamp": 12
+    },
+    {
+      "speakerId": "speaker-001",
+      "japanese": "あ、おはようございます！早いですね。",
+      "japaneseWithRuby": "あ、おはようございます！<ruby>早<rt>はや</rt></ruby>いですね。",
+      "hiragana": "あ、おはようございます！はやいですね。",
+      "english": "Oh, good morning! You're early.",
+      "explanation": "「早い」は「early」を意味します。「ですね」は同意や確認を求める表現です。",
+      "timestamp": 18
+    }
+  ]
+}
